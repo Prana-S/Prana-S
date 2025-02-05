@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prana-S 👋</h1>
 <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Student+at+Highland+Middle+School;SWE+Intern+at+Bond+Intellignence;https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav~s" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Student+at+Interlake+High+School;https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav~s" alt="Typing SVG" /></a>
 </p>
 <hr>
 <h1 style="font-size: 22px" align="center">Joke:</h1>
