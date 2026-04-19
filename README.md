@@ -1,124 +1,83 @@
-<h1 align="center">Hi, I'm Prana-S 👋</h1>
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Student+at+Interlake+High+School;https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpranav~s" alt="Typing SVG" /></a>
-</p>
-<hr>
-<h1 style="font-size: 22px" align="center">Joke:</h1>
-<img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<hr/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=Pranav%20Sinha&fontSize=36&fontColor=ffffff&fontAlignY=65&desc=AI%20%C2%B7%20Consumer%20Software%20%C2%B7%20Agent%20Infrastructure&descAlignY=85&descSize=14&descColor=888888" />
 
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Prana-S&theme=algolia" alt="Prana-S"/></p>
+<div align="center">
 
-## 🛠️ Skills
+[![LinkedIn](https://img.shields.io/badge/linkedin%2Fin%2Fpranav~s-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2&labelColor=0d1117)](https://linkedin.com/in/pranav~s)&nbsp;
+[![Workout Buddy](https://img.shields.io/badge/workoutbuddy.online-0d1117?style=flat-square&logo=safari&logoColor=white&labelColor=0d1117)](https://workoutbuddy.online)
 
-### 👉 Programming languages
+**16 · Sophomore, Interlake High School · Solo Founder**
 
-<p align="left"> 
-<!-- <a href= https://github.com/?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a> -->
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=nodejs&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/npm.svg'> </a>
-&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/chartjs.svg'> </a>
+</div>
 
-</p>
+---
 
-### 👉 Website Development
-<p align="left"> 
-  <a href= https://github.com/?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=flask&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flask.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nginx.svg'> </a>
-	&emsp;
-<a href= https://github.com/?tab=repositories&q=&type=&language=django&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+I build and ship AI products. Solo, fast, in production.
 
+Real-time pose estimation in a browser. Autonomous agents that run while I sleep. AI that styles your wardrobe from a photo. My products are live — not side projects, not demos.
 
-</p>
+> 💡 Most of my active work is in private repos — production apps, client work, and agent infrastructure I'm not ready to open-source. The commit graph doesn't tell the story.
 
-### 👉 Databases & Cloud Hosting
-<p align="left">
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gcp.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/firebase.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/azure.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-    	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
- </p>
+---
 
- ### 👉 Everything Else
- <p align="left">
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=gcp&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/xd.svg'> </a>
-	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-    	&emsp;
-	<a href= https://github.com/?tab=repositories&q=&type=&language=azure&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/blender.svg'> </a>
- </p>
+## ⚡ Shipped
 
-<br/>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-## 📊 Github Stats (Expand to View) 
+### [Workout Buddy](https://workoutbuddy.online) &nbsp;`live`
+Real-time AI fitness coach, runs entirely in the browser. TensorFlow.js + MediaPipe Pose + WebGPU. No install, no backend, no server. Form correction that actually works.
 
+`TensorFlow.js` `MediaPipe` `WebGPU` `React`
 
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Prana-S's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Prana-S&show_icons=true&count_private=true&theme=algolia&custom_title=Prana-S's%20stats" height="192px"/></a>
-<br/>
-  </p>
-</details>
+</td>
+<td width="50%" valign="top">
 
+### Drip &nbsp;`live`
+AI outfit assistant (PWA). Azure OpenAI Vision catalogs your wardrobe from photos → generates daily outfits from weather + 7-step style profile. 4-layer anti-repeat, outfit rating, customization panel.
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/Prana-S"><img alt="Prana-S's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Prana-S&custom_title=Prana-S's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
+`Azure OpenAI Vision` `Next.js` `PWA`
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<br/>
+### OpenClaw
+Personal AI agent infrastructure. **AI Agent** which handles research + cold outreach. **Comet** handles browser automation. Routes between Azure OpenAI and Ollama. Runs 24/7.
 
-## 🙋‍♀️ Let's Connect
-<p align="center">
-	<a href="mailto:pranavsinha299@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/Prana-S"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://linkedin.com/in/pranav~s" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
+`Python` `Azure OpenAI` `Ollama`
 
-<hr/>
+</td>
+</tr>
+</table>
 
-<!--
-**Prana-S/Prana-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠 Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+AI / ML:    TensorFlow.js  ·  MediaPipe Pose  ·  Azure OpenAI  ·  Ollama  ·  WebGPU
+Frontend:   React  ·  Next.js  ·  TypeScript  ·  PWA
+Backend:    Python  ·  Node.js  ·  Firebase  ·  GCP  ·  Docker
+Other:      FFmpeg  ·  Alpaca API  ·  Pexels API  ·  edge-tts
+```
+
+---
+
+## 💼 Experience
+
+**Bond Intelligence** — Software Engineer
+Built financial data platforms and trading software.
+
+---
+
+<div align="center">
+
+*Currently: scaling Drip · building Workout Buddy Pro · turning OpenClaw into a B2B service*
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" />
+
+</div>
